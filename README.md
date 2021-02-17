@@ -15,8 +15,8 @@ The center of all relevant braces2teeth projects
 
 ## 2. Demo
 
-- https://youtu.be/UHG_Jy_ozdU
+- Video process: https://youtu.be/UHG_Jy_ozdU
 
-- https://youtu.be/XTRvVrxrLtY
+- Image process: https://youtu.be/XTRvVrxrLtY
 
-- https://youtu.be/tNwl04ky06c
+- Image process with auto focus on mouth: https://youtu.be/tNwl04ky06c
