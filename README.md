@@ -1,6 +1,14 @@
 # Braces2Teeth
 The center of all relevant braces2teeth projects
 
+![Ảnh2](https://user-images.githubusercontent.com/43202025/108168067-462ec480-7129-11eb-83f5-f4855c2f6003.png)
+
+![Ảnh1](https://user-images.githubusercontent.com/43202025/108168217-7ece9e00-7129-11eb-9915-7a566b62e8f9.png)
+
+![video](https://user-images.githubusercontent.com/43202025/108168865-8b072b00-712a-11eb-808d-d17fbf166804.gif)
+
+![video (1)](https://user-images.githubusercontent.com/43202025/108168861-893d6780-712a-11eb-89aa-5df8e91c3599.gif)
+
 ## 1. Source codes
 
 - Client (ReactJS): https://github.com/vutuanhai237/Braces2TeethClient
