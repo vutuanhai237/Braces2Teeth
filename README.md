@@ -28,3 +28,9 @@ The center of all relevant braces2teeth projects
 - Image process: https://youtu.be/XTRvVrxrLtY
 
 - Image process with auto focus on mouth: https://youtu.be/tNwl04ky06c
+
+## 3. Relevant materials (my thesis)
+
+- Report: [17520433_SE505.L11_Pham The Bao & Huynh Ho Thi Mong Trinh.pdf](https://github.com/vutuanhai237/Self_Driving_Car/files/6034770/17520433_SE505.L11_Pham.The.Bao.Huynh.Ho.Thi.Mong.Trinh.pdf)
+
+- Slide: [17520433_SE505.L11_Pham The Bao & Huynh Ho Thi Mong Trinh_Slide.pdf](https://github.com/vutuanhai237/Self_Driving_Car/files/6034769/17520433_SE505.L11_Pham.The.Bao.Huynh.Ho.Thi.Mong.Trinh_Slide.pdf)
