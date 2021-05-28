@@ -13,9 +13,9 @@ The center of all relevant braces2teeth projects
 
 - Client (ReactJS): https://github.com/vutuanhai237/Braces2TeethClient
 
-- Server (Flask) & Model (Pytorch): https://github.com/vutuanhai237/Braces2TeethServer.
+- Server (Flask) & Model (Pytorch): https://github.com/vutuanhai237/Braces2TeethServer
 
-- Utility (Python): https://github.com/vutuanhai237/Braces2TeethUtilities
+- Pre-processing module (Python): https://github.com/vutuanhai237/Braces2TeethUtilities
 
 - Dataset: https://github.com/vutuanhai237/Braces2TeethDataset
 
