@@ -17,9 +17,11 @@ The center of all relevant braces2teeth projects
 
 - Pre-processing module (Python): https://github.com/vutuanhai237/Braces2TeethUtilities
 
-- Dataset: https://github.com/vutuanhai237/Braces2TeethDataset
+- Dataset (.png &.txt): https://github.com/vutuanhai237/Braces2TeethDataset
 
-- AMT Score: https://github.com/vutuanhai237/AMTScoreForBraces2Teeth
+- Create teeth2 dataset scripts (Python): https://github.com/vutuanhai237/CreateTeeth2Dataset
+
+- AMT Score (.xlsx): https://github.com/vutuanhai237/AMTScoreForBraces2Teeth
 
 ## 2. Demo
 
