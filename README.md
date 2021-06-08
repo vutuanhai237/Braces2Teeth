@@ -1,5 +1,8 @@
 # Braces2Teeth
-The center of all relevant braces2teeth projects
+The center of all relevant braces2teeth projects, feel free to read these below assets and codes.
+As mention in MIT License, you can have rights in commercial use, modification, distribution, and private use. But:
+- If you want to use dataset / code in thesis or course, note my name "Vu Tuan Hai" as the reference.
+- If you want to turn these materials into a commercial app, please contact me via my personal email to get more information.
 
 ![Ảnh2](https://user-images.githubusercontent.com/43202025/108168067-462ec480-7129-11eb-83f5-f4855c2f6003.png)
 
