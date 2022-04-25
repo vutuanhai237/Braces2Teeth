@@ -1,4 +1,26 @@
 # Braces2Teeth
+
+These are the resources of paper "Reconstructed teeth image from braces with GAN".
+
+_Authors: Vu Tuan Hai, Dang Thanh Vu, Huynh Ho Thi Mong Trinh and Pham The Bao_
+
+DOI: https://doi.org/10.4015/S1016237221500435.
+
+Bibitem:
+
+```
+@article{hai2021reconstructed,
+  title={RECONSTRUCTED TEETH IMAGE FROM BRACES WITH GAN},
+  author={Hai, Vu Tuan and Vu, Dang Thanh and Trinh, Huynh Ho Thi Mong and Bao, Pham The},
+  journal={Biomedical Engineering: Applications, Basis and Communications},
+  volume={33},
+  number={06},
+  pages={2150043},
+  year={2021},
+  publisher={World Scientific}
+}
+```
+
 The center of all relevant braces2teeth projects, feel free to read these below assets and codes.
 As mention in MIT License, you can have rights in commercial use, modification, distribution, and private use. But:
 - If you want to use dataset / code in thesis or course, note my name "Vu Tuan Hai" as the reference.
